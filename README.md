@@ -1,2 +1,2 @@
 # Css-Clone-page
-I clone the page  css
+I clone the page with html css
